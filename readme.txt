@@ -1,3 +1,5 @@
+Paper link:https://link.springer.com/article/10.1007/s00521-023-08815-3
+
 1.运行cvae_act_Gaussian_word2vec.py,生成类别先验知识
 2.运行acvae.py训练模型
 3.a-cvae_mathgold_{}.py是改变损失函数中惩罚系数值
